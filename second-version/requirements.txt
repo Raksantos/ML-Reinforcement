@@ -1,6 +1,0 @@
-numpy
-# stable-baselines3[extra]
-pyglet
-gym[all]
-tensorflow
-Box2D
